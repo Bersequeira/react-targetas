@@ -14,7 +14,7 @@ function Card({title, imageSource, text, url}) {
                 <h4 className="card-title">{title}</h4>
                 <p className="card-text text-secondary">              
                     {
-                      text ? text : 'Primeramente a Dios, por estar siempre con nosotras, iluminándonos el camino, brindándonos protección y bendición por darnos fuerza para hacerle frente a todas las adversidades durante mis estudios y permitirme salir victoriosas'
+                      text ? text : 'Los marcos de Javascript son bibliotecas reescritas de funciones de javascript para ayudar a los desarrolladores a resolver soluciones complejas. Proporciona una excelente estructura, por lo tanto, podemos crear código compatible con todos los navegadores.'
                     }          
                 </p>         
                 <a href={url} className="btn btn-outline-secondary rounded-0" target="_blank">
