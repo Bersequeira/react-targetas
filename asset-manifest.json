@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-targetas/static/css/main.09097b77.chunk.css",
+    "main.js": "/react-targetas/static/js/main.9b6bc44b.chunk.js",
+    "main.js.map": "/react-targetas/static/js/main.9b6bc44b.chunk.js.map",
+    "runtime-main.js": "/react-targetas/static/js/runtime-main.839da6ab.js",
+    "runtime-main.js.map": "/react-targetas/static/js/runtime-main.839da6ab.js.map",
+    "static/css/2.da14202d.chunk.css": "/react-targetas/static/css/2.da14202d.chunk.css",
+    "static/js/2.c4cb2625.chunk.js": "/react-targetas/static/js/2.c4cb2625.chunk.js",
+    "static/js/2.c4cb2625.chunk.js.map": "/react-targetas/static/js/2.c4cb2625.chunk.js.map",
+    "static/js/3.2e65ecae.chunk.js": "/react-targetas/static/js/3.2e65ecae.chunk.js",
+    "static/js/3.2e65ecae.chunk.js.map": "/react-targetas/static/js/3.2e65ecae.chunk.js.map",
+    "index.html": "/react-targetas/index.html",
+    "static/css/2.da14202d.chunk.css.map": "/react-targetas/static/css/2.da14202d.chunk.css.map",
+    "static/css/main.09097b77.chunk.css.map": "/react-targetas/static/css/main.09097b77.chunk.css.map",
+    "static/js/2.c4cb2625.chunk.js.LICENSE.txt": "/react-targetas/static/js/2.c4cb2625.chunk.js.LICENSE.txt",
+    "static/media/image2.f57e37a5.jpg": "/react-targetas/static/media/image2.f57e37a5.jpg",
+    "static/media/image3.de2e4145.jpg": "/react-targetas/static/media/image3.de2e4145.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.839da6ab.js",
+    "static/css/2.da14202d.chunk.css",
+    "static/js/2.c4cb2625.chunk.js",
+    "static/css/main.09097b77.chunk.css",
+    "static/js/main.9b6bc44b.chunk.js"
+  ]
+}
